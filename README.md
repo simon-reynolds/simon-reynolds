@@ -11,12 +11,18 @@
 :earth_africa: Dublin, Ireland
 
 ----
+## Shiny statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-reynolds&count_private=true&theme=radical)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-reynolds&theme=radical&layout=compact)
 
-----
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simon-reynolds&theme=radical&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=simon-reynolds&theme=darkhub&no-frame=true&row=2&column=3)
+
+
+----
+## Pinned repositories
 
 <a href="https://github.com/efcore/efcore.fsharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efcore&repo=efcore.fsharp&theme=radical" />
@@ -24,3 +30,9 @@
 <a href="https://github.com/simon-reynolds/efcore.fsharp.mvcauth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simon-reynolds&repo=efcore.fsharp.mvcauth&theme=radical" />
 </a>
+
+----
+## Check out my latest blog posts...
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
