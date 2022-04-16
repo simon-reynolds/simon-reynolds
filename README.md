@@ -35,9 +35,9 @@
 ## Check out my latest blog posts...
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing EFCore.FSharp](https://SimonReynolds.ie/announcing-efcore-fsharp/)
-- [Azure Storage Explorer and Multi-Factor Authentication](https://SimonReynolds.ie/azure-storage-explorer-and-multi-factor-authentication/)
-- [WTF is... a Computation Expression?](https://SimonReynolds.ie/wtf-is-a-computation-expression/)
-- [Hosting multiple web applications in Docker](https://SimonReynolds.ie/hosting-multiple-web-applications-in-docker/)
-- [SSRS Access woes](https://SimonReynolds.ie/ssrs-access-woes/)
+- [Announcing EFCore.FSharp](simonreynolds.ie/announcing-efcore-fsharp/)
+- [Azure Storage Explorer and Multi-Factor Authentication](simonreynolds.ie/azure-storage-explorer-and-multi-factor-authentication/)
+- [WTF is... a Computation Expression?](simonreynolds.ie/wtf-is-a-computation-expression/)
+- [Hosting multiple web applications in Docker](simonreynolds.ie/hosting-multiple-web-applications-in-docker/)
+- [SSRS Access woes](simonreynolds.ie/ssrs-access-woes/)
 <!-- BLOG-POST-LIST:END -->
