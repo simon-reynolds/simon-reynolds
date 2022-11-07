@@ -35,9 +35,9 @@
 ## Check out my latest blog posts...
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon, the getting started guide](simonreynolds.ie/mastodon-the-getting-started-guide/)
 - [Announcing EFCore.FSharp](simonreynolds.ie/announcing-efcore-fsharp/)
 - [Azure Storage Explorer and Multi-Factor Authentication](simonreynolds.ie/azure-storage-explorer-and-multi-factor-authentication/)
 - [WTF is... a Computation Expression?](simonreynolds.ie/wtf-is-a-computation-expression/)
 - [Hosting multiple web applications in Docker](simonreynolds.ie/hosting-multiple-web-applications-in-docker/)
-- [SSRS Access woes](simonreynolds.ie/ssrs-access-woes/)
 <!-- BLOG-POST-LIST:END -->
