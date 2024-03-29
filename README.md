@@ -35,9 +35,9 @@
 ## Check out my latest blog posts...
 
 <!-- BLOG-POST-LIST:START -->
+- [StringBuffer - An F# string builder](https://simonreynolds.ie/stringbuffer/)
 - [Mastodon, the getting started guide](https://simonreynolds.ie/mastodon-the-getting-started-guide/)
 - [Announcing EFCore.FSharp](https://simonreynolds.ie/announcing-efcore-fsharp/)
 - [Azure Storage Explorer and Multi-Factor Authentication](https://simonreynolds.ie/azure-storage-explorer-and-multi-factor-authentication/)
 - [WTF is... a Computation Expression?](https://simonreynolds.ie/wtf-is-a-computation-expression/)
-- [Hosting multiple web applications in Docker](https://simonreynolds.ie/hosting-multiple-web-applications-in-docker/)
 <!-- BLOG-POST-LIST:END -->
